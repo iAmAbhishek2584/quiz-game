@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gradientStart">#DCE3E3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="skyBlue">#03A9F4</color>
+    <color name="darkBlue">#3F51B5</color>
+    <color name="yellow">#CDDC39</color>
+    <color name="correct">#8DDA90</color>
+    <color name="blue">#00BCD4</color>
+    <color name="gradientCenter">#BBC6C6</color>
+    <color name="gradientEnd">#A3A3A6</color>
+    <color name="wrong">#F44336</color>
+</resources>
